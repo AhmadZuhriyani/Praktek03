@@ -6,5 +6,14 @@ public class Komputer extends Laptop{
     void throttle(){
         System.out.println(" R.O.G -Gaming-");
     }
+
+    public String getJenisKomputer() {
+        return JenisKomputer;
+    }
+
+    public void setJenisKomputer(String JenisKomputer) {
+        this.JenisKomputer = JenisKomputer;
+    }
+ 
     
 }
