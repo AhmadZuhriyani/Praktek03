@@ -10,6 +10,6 @@ public class Laptop {
         System.out.println("Merk \t: "+merk+"\n"+
                           "Warna \t: "+warna+"\n"+
                           "Harga \t: "+harga);
-        
+       
     }
 }
